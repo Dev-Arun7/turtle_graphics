@@ -1,3 +1,6 @@
+
+# uncommend each section to see diffrent effects
+
 # # Import the turtle graphics library
 # import turtle
 # import random
